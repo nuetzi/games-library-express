@@ -9,3 +9,6 @@ const gamesSchema = new mongoose.Schema({
     platforms: {type: String, required: true},
     summary: {type: String, required: true},
 });
+
+const Games = mongoose.model("Game", gamesSchema);
+module.exports = Games;

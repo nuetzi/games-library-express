@@ -24,7 +24,7 @@ router.put("/:id", (req, res) => {
 });
 
 // Create Route
-router.put("/:id", (req, res) => {
+router.post("/", (req, res) => {
     Games.create(req.body, (err, createdGame) => {
         res.json(createdGame);
     });
