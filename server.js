@@ -28,9 +28,6 @@ app.use(cors());
 const libraryController = require("./controllers/routes");
 app.use("/library", libraryController);
 
-// const igdbController = require("./controllers/igdb");
-// app.use("/igdb", igdbController);
-
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
 });

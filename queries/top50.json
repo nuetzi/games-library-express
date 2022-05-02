@@ -1,0 +1,3154 @@
+[
+  {
+    "id": 7346,
+    "aggregated_rating": 97.5925925925926,
+    "cover": {
+      "id": 172453,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3p2d.jpg"
+    },
+    "first_release_date": 1488499200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 131267,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      }
+    ],
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "platforms": [
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 92.08594234990781,
+    "storyline": "Link awakes in a mysterious chamber after 100 years of slumber to find that Calamity Ganon has taken over Hyrule Castle and left Hyrule to decay and be taken over by nature.",
+    "summary": "In this 3D open-world entry in the Zelda series, Link is awakened from a deep slumber without his past memories in the post-apocalyptic Kingdom of Hyrule, and sets off on a journey to defeat the ancient evil Calamity Ganon. Link treks, climbs and glides through fields, forests and mountain ranges while meeting and helping friendly folk and defeating enemies in order to gather up the strength to face Ganon.",
+    "total_rating": 94.8392674712502,
+    "url": "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild"
+  },
+  {
+    "id": 6036,
+    "aggregated_rating": 97.4,
+    "cover": {
+      "id": 218456,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ok8.jpg"
+    },
+    "first_release_date": 1406592000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22266,
+        "company": {
+          "id": 401,
+          "name": "Naughty Dog"
+        }
+      },
+      {
+        "id": 22267,
+        "company": {
+          "id": 45,
+          "name": "Sony Computer Entertainment, Inc. (SCEI)"
+        }
+      }
+    ],
+    "name": "The Last of Us Remastered",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 94.35540822533721,
+    "storyline": "Twenty years after a mutated fungus started turning people all over the world into deadly zombies, humans become an endangered species. Joel, a Texan in his forties with the \"emotional range of a teaspoon\" (to quote Hermione from Harry Potter), finds himself responsible with the safety of a fourteen year old girl named Ellie whom he must smuggle to a militia group called the Fireflies. And as if the infected aren\u0027t enough of a hassle, they also have to deal with the authorities who wouldn\u0027t let them leave the quarantine zone, as well as other survivors capable of killing anyone who might have something useful in their backpacks.",
+    "summary": "The Last of Us has been remastered for the PlayStation 4. Now featuring higher resolution character models, improved shadows and lighting, in addition to several other gameplay improvements.\n\nAbandoned cities reclaimed by nature. A population decimated by a modern plague. Survivors are killing each other for food, weapons whatever they can get their hands on. Joel, a brutal survivor, and Ellie, a brave young teenage girl who is wise beyond her years, must work together if they hope to survive their journey across the US.\n\nThe Last of Us: Remastered includes;\n- The Abandoned Territories Map Pack\n- Reclaimed Territories Map Pack\n- The Last of Us: Left Behind Single Player campaign",
+    "total_rating": 95.87770411266861,
+    "url": "https://www.igdb.com/games/the-last-of-us-remastered"
+  },
+  {
+    "id": 119133,
+    "aggregated_rating": 96.9,
+    "cover": {
+      "id": 212094,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4jni.jpg"
+    },
+    "first_release_date": 1645747200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 158585,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        }
+      },
+      {
+        "id": 158586,
+        "company": {
+          "id": 1012,
+          "name": "FromSoftware"
+        }
+      }
+    ],
+    "name": "Elden Ring",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      }
+    ],
+    "rating": 94.76224228733929,
+    "summary": "Elden Ring is a fantasy, action and open world game with RPG elements such as stats, weapons and spells. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "total_rating": 95.83112114366965,
+    "url": "https://www.igdb.com/games/elden-ring"
+  },
+  {
+    "id": 26758,
+    "aggregated_rating": 96.7058823529412,
+    "cover": {
+      "id": 76371,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mxf.jpg"
+    },
+    "first_release_date": 1509062400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69095,
+        "company": {
+          "id": 2910,
+          "name": "1-UP Studio"
+        }
+      },
+      {
+        "id": 131281,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      }
+    ],
+    "name": "Super Mario Odyssey",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 89.7890765034322,
+    "summary": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
+    "total_rating": 93.2474794281867,
+    "url": "https://www.igdb.com/games/super-mario-odyssey"
+  },
+  {
+    "id": 12517,
+    "aggregated_rating": 96.3846153846154,
+    "cover": {
+      "id": 103865,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2855.jpg"
+    },
+    "first_release_date": 1442275200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 116640,
+        "company": {
+          "id": 6545,
+          "name": "tobyfox"
+        }
+      },
+      {
+        "id": 116641,
+        "company": {
+          "id": 23459,
+          "name": "temmie"
+        }
+      },
+      {
+        "id": 134860,
+        "company": {
+          "id": 29538,
+          "name": "8-4"
+        }
+      }
+    ],
+    "name": "Undertale",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 46,
+        "name": "PlayStation Vita"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 87.0147099181782,
+    "storyline": "\"A long time ago, two races ruled peacefully over the Earth: HUMANS and MONSTERS. One day, a terrible war broke out between the two races. After a long battle, the humans were victorious. They sealed the monsters underground with a magical spell.\n\nIn the year 201X, a small child scales Mt. Ebott. It is said that those who climb the mountain never return.\n\nSeeking refuge from the rainy weather, the child enters a cave and discovers an enormous hole.\n\nMoving closer to get a better look... the child falls in.\n\nNow, our story begins.\"",
+    "summary": "A small child falls into the Underground, where monsters have long been banished by humans and are hunting every human that they find. The player controls the child as they try to make it back to the Surface through hostile environments, all the while engaging with a turn-based combat system with puzzle-solving and bullet hell elements, as well as other unconventional game mechanics.",
+    "total_rating": 91.6996626513968,
+    "url": "https://www.igdb.com/games/undertale"
+  },
+  {
+    "id": 19560,
+    "aggregated_rating": 96.2307692307692,
+    "cover": {
+      "id": 85062,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmu.jpg"
+    },
+    "first_release_date": 1524182400,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36378,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      },
+      {
+        "id": 38707,
+        "company": {
+          "id": 4357,
+          "name": "SIE Santa Monica Studio"
+        }
+      },
+      {
+        "id": 154522,
+        "company": {
+          "id": 38814,
+          "name": "Jetpack Interactive"
+        }
+      }
+    ],
+    "name": "God of War",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 94.44417763329551,
+    "storyline": "Many years have passed since Kratos, Spartan warrior and former Greek God of War, took his vengeance against the Greek Gods, and he now lives with his young son Atreus in ancient Norway in the realm of Midgard. The game begins after the death of the Jötunn warrior Faye, Kratos\u0027 second wife and Atreus\u0027 mother, whose last request was for her ashes to be spread at the highest speak of the nine realms. Kratos and Atreus prepare a funeral pyre for her, mourn her death and soon go on a hunt as per Kratos\u0027 desire. However much to Kratos\u0027 disappointment, Atreus proves his incompetence and lack of focus, making Kratos reconsider taking Atreus in his journey. Kratos is soon attacked by a mysterious stranger with godlike powers, and who cannot feel anything physically. After seemingly killing him, Kratos reluctantly takes Atreus with him and begins their journey.",
+    "summary": "God of War is the sequel to God of War III as well as a continuation of the canon God of War chronology. Unlike previous installments, this game focuses on Norse mythology and follows an older and more seasoned Kratos and his son Atreus in the years since the third game. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+    "total_rating": 95.33747343203235,
+    "url": "https://www.igdb.com/games/god-of-war--1"
+  },
+  {
+    "id": 472,
+    "aggregated_rating": 96.1111111111111,
+    "cover": {
+      "id": 85100,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnw.jpg"
+    },
+    "first_release_date": 1320883200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3719,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        }
+      },
+      {
+        "id": 95350,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        }
+      }
+    ],
+    "name": "The Elder Scrolls V: Skyrim",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "rating": 87.5199642201956,
+    "storyline": "The Empire of Tamriel is on the edge. The High King of Skyrim has been murdered. Alliances form as claims to the throne are made. In the midst of this conflict, a far more dangerous, ancient evil is awakened. Dragons, long lost to the passages of the Elder Scrolls, have returned to Tamriel. The future of Skyrim, even the Empire itself, hangs in the balance as they wait for the prophesized Dragonborn to come; a hero born with the power of The Voice, and the only one who can stand amongst the dragons.",
+    "summary": "Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before.",
+    "total_rating": 91.81553766565335,
+    "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim"
+  },
+  {
+    "id": 1058,
+    "aggregated_rating": 96.0,
+    "cover": {
+      "id": 219039,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4p0f.jpg"
+    },
+    "first_release_date": 1225065600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4506,
+        "company": {
+          "id": 746,
+          "name": "Media Molecule"
+        }
+      },
+      {
+        "id": 169241,
+        "company": {
+          "id": 45,
+          "name": "Sony Computer Entertainment, Inc. (SCEI)"
+        }
+      }
+    ],
+    "name": "LittleBigPlanet",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      }
+    ],
+    "rating": 78.9040605897199,
+    "storyline": "LittleBigPlanet is set in a world full of creations made by Creator Curators. One of the Curators, a rogue Creator called \"the Collector\", is stealing the other Creators\u0027 creations and not sharing them with the world (sharing is one of the core elements of LittleBigPlanet). Play starts at the \"Gardens\" level, where the player meets the King, one of the Curators; the Queen; Little Xim; Big Zam and Dumpty. The player is taught the basic gameplay at this stage: running, jumping, and grabbing. The next setting is the \"Savannah\", where the player accidentally breaks one of the ruler\u0027s creations. In return for forgiveness the player must investigate what\u0027s scaring the ruler\u0027s buffalo. Further adventures involve finding Meerkat Mum\u0027s son and a Bridegroom (a story arc with a Day of the Dead theme). After the wedding play moves to the \"Canyons\", where the player must rescue Uncle Jalapeño and defeat the evil Sheriff Zapata. After completing this the player is taken to the \"Metropolis\" and gets a car for a race scenario. The next adventure takes place on the \"Islands\", where the player is trained in martial arts and must defeat the Terrible Oni. From there the player goes to the \"Temples\", to get a flame-throwing cat. Here they meet the Great Magician, who tells them to defeat the Collector in his \"Wilderness\". After the final battle the Collector is revealed to be a little, lonely man who kidnapped everyone because he did not have any friends. Everyone, including the player, offers to be his friend and he accepts, ending his being evil.",
+    "summary": "Welcome to LittleBigPlanet – a world of infinite possibilities, where imagination becomes reality and the powers of creation are firmly in your hands. If you can think of it, you can create it if you can create it, you can share it if you can share it, you can play it – and watch our colorful LittleBigPlanet grow and diversify!\n\nIt’s a new kind of game that unleashes the creativity in everyone. Design your own character and play over 50 awesome developer levels packed with dangers to navigate, races to win and puzzles to solve. As you play you will learn the skills to build a world of your own by earning creative tools and collecting hundreds of items. Use these items and tools to shape amazing levels of your own, featuring puzzles, challenges, and enemies of your own design. When you are ready, go online to access the LBP community and Share your creations for everyone to play.\n\nLittleBigPlanet is a world with no limits – a world that’s yours to shape, build and explore.",
+    "total_rating": 87.45203029485995,
+    "url": "https://www.igdb.com/games/littlebigplanet"
+  },
+  {
+    "id": 499,
+    "aggregated_rating": 96.0,
+    "cover": {
+      "id": 166770,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3koi.jpg"
+    },
+    "first_release_date": 1268697600,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38698,
+        "company": {
+          "id": 4357,
+          "name": "SIE Santa Monica Studio"
+        }
+      },
+      {
+        "id": 45113,
+        "company": {
+          "id": 45,
+          "name": "Sony Computer Entertainment, Inc. (SCEI)"
+        }
+      },
+      {
+        "id": 45114,
+        "company": {
+          "id": 12303,
+          "name": "Wholesale Algorithms["
+        }
+      }
+    ],
+    "name": "God of War III",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 86.16728468607681,
+    "storyline": "Following the ending of God of War II, God of War III picks up directly after this with a stirring opening narration from Zeus discussing the actions of the rogue Kratos, who is \u0027commanding\u0027 a small army of Titans rescued from the Great War (using the power of the Fates). The Olympians immediately rush to battle; Helios rides on his chariot over Olympus, Hermes speeds down the very peaks of Olympus as Zeus watches on, Hercules receives the order to lead his troops down into the fray, Hades lunges off and engages several Titans in his giant form, and Poseidon (using his aquakinesis) shoots down from Olympus like a missile and performs a death blow through the chest of Epimetheus, and then manifests himself as a massive water being and spawns several water horses called Hippocampi to aid in the battle. With Poseidon as their greatest threat in the battle, having already decimated numerous Titans and soon going after Gaia herself, Kratos engages the God of the Sea and after drawing him into Gaia\u0027s grasp manages to knock a weakened Poseidon out of his godly form and onto a separate platform. The two quarrel with each other briefly before Kratos walks up and beats the Lord of the Sea savagely, finally gouging out his eyes and snapping his neck before he tosses him into the ocean. With Poseidon\u0027s death, the seas cataclysm and ocean levels rise significantly, causing a flood that appears to engulf the entire world and destroying almost all of mankind save those on top of Olympia.",
+    "summary": "Set in the realm of brutal Greek mythology, God of War III is a single-player game that allows players to take on the climatic role of the ex-Spartan warrior, Kratos, as he scales through the intimidating heights of Mt. Olympus and the dark depths of Hell to seek revenge on those who have betrayed him. Armed with double-chained blades, and an array of new weapons and magic for this iteration of the trilogy, Kratos must take on mythology\u0027s darkest creatures while solving intricate puzzles throughout his merciless quest to destroy Olympus. Utilizing a new game engine built from the ground up and state-of-the-art visual technologies, the development team behind God of War III has made standard-setting strides in giving players the realistic feel of actually being on the battlegrounds. With texture resolutions quadrupling since God of War II on PlayStation 2 computer entertainment system, God of War III, in its debut on the PS3 system, will feature fluid, life-like characters, as well as dynamic lighting effects, a robust weapon system, and world-changing scenarios that will truly bring unmistakable realism to Kratos\u0027 fateful quest. Players will have a chance to join battles on a grand scale that is four times larger than its predecessor.",
+    "total_rating": 91.0836423430384,
+    "url": "https://www.igdb.com/games/god-of-war-iii"
+  },
+  {
+    "id": 1985,
+    "aggregated_rating": 95.7368421052632,
+    "cover": {
+      "id": 87125,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1v85.jpg"
+    },
+    "first_release_date": 1441065600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 5115,
+        "company": {
+          "id": 170,
+          "name": "Kojima Productions"
+        }
+      },
+      {
+        "id": 5116,
+        "company": {
+          "id": 129,
+          "name": "Konami"
+        }
+      }
+    ],
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 85.409126654327,
+    "storyline": "Snake wakes up in a hospital after lying in a coma for 9 years only to find out that the hospital is under attack by an unknown enemy and must escape the hospital as quickly as possible - while only slowly regaining control over his body, degenerated by the coma.",
+    "summary": "The 5th installment of the Metal Gear Solid saga, Metal Gear Solid V: The Phantom Pain continues the story of Big Boss (aka Naked Snake, aka David), connecting the story lines from Metal Gear Solid: Peace Walker, Metal Gear Solid: Ground Zeroes, and the rest of the Metal Gear Universe.",
+    "total_rating": 90.57298437979509,
+    "url": "https://www.igdb.com/games/metal-gear-solid-v-the-phantom-pain"
+  },
+  {
+    "id": 74,
+    "aggregated_rating": 95.6,
+    "cover": {
+      "id": 93684,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20ac.jpg"
+    },
+    "first_release_date": 1264464000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 5240,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        }
+      },
+      {
+        "id": 5241,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      },
+      {
+        "id": 18482,
+        "company": {
+          "id": 222,
+          "name": "BioWare Edmonton"
+        }
+      },
+      {
+        "id": 52062,
+        "company": {
+          "id": 3903,
+          "name": "BioWare Montreal"
+        }
+      }
+    ],
+    "name": "Mass Effect 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "rating": 91.4730518797748,
+    "storyline": "Two years after Commander Shepard repelled invading Reapers bent on the destruction of organic life, a mysterious new enemy has emerged. On the fringes of known space, something is silently abducting entire human colonies. Now Shepard must work with Cerberus, a ruthless organization devoted to human survival at any cost, to stop the most terrifying threat mankind has ever faced.\n\nTo even attempt this perilous mission, Shepard must assemble the galaxy\u0027s most elite team and command the most powerful ship ever built. Even then, they say it would be suicide. Commander Shepard intends to prove them wrong.",
+    "summary": "Are you prepared to lose everything to save the galaxy? You\u0027ll need to be, Commander Shephard. It\u0027s time to bring together your greatest allies and recruit the galaxy\u0027s fighting elite to continue the resistance against the invading Reapers. So steel yourself, because this is an astronomical mission where sacrifices must be made. You\u0027ll face tougher choices and new, deadlier enemies. Arm yourself and prepare for an unforgettable intergalactic adventure.\n\nGame Features:\n\nShift the fight in your favour. Equip yourself with powerful new weapons almost instantly thanks to a new inventory system. Plus, an improved health regeneration system means you\u0027ll spend less time hunting for restorative items.\n\nMake every decision matter. Divisive crew members are just the tip of the iceberg, Commander, because you\u0027ll also be tasked with issues of intergalactic diplomacy. And time\u0027s a wastin\u0027 so don\u0027t be afraid to use new prompt-based actions that let you interrupt conversations, even if they could alter the fate of your crew...and the galaxy.\n\nForge new alliances, carefully. You\u0027ll fight alongside some of your most trustworthy crew members, but you\u0027ll also get the opportunity to recruit new talent. Just choose your new partners with care because the fate of the galaxy rests on your shoulders, Commander.",
+    "total_rating": 93.5365259398874,
+    "url": "https://www.igdb.com/games/mass-effect-2"
+  },
+  {
+    "id": 9602,
+    "aggregated_rating": 95.2727272727273,
+    "cover": {
+      "id": 94749,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co213x.jpg"
+    },
+    "first_release_date": 1416528000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43914,
+        "company": {
+          "id": 876,
+          "name": "Sora"
+        }
+      },
+      {
+        "id": 43915,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 43916,
+        "company": {
+          "id": 1913,
+          "name": "tri-Crescendo"
+        }
+      },
+      {
+        "id": 98161,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        }
+      }
+    ],
+    "name": "Super Smash Bros. for Wii U",
+    "platforms": [
+      {
+        "id": 41,
+        "name": "Wii U"
+      }
+    ],
+    "rating": 84.0133843853554,
+    "summary": "Super Smash Bros. for Wii U is the fourth console-based entry in the popular Super Smash Bros. series of fighting games. With an even larger roster of fighters than its predecessors and the introduction eight player battles, Smash for Wii U continues to add to the formula that gamers have loved since 1999.",
+    "total_rating": 89.64305582904134,
+    "url": "https://www.igdb.com/games/super-smash-bros-for-wii-u"
+  },
+  {
+    "id": 26192,
+    "aggregated_rating": 95.1818181818182,
+    "cover": {
+      "id": 81672,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r0o.jpg"
+    },
+    "first_release_date": 1592524800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42349,
+        "company": {
+          "id": 401,
+          "name": "Naughty Dog"
+        }
+      },
+      {
+        "id": 42375,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      }
+    ],
+    "name": "The Last of Us Part II",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 92.58253736641271,
+    "storyline": "Five years after their dangerous journey across the post-pandemic United States, Ellie and Joel have settled down in Jackson, Wyoming. Living amongst a thriving community of survivors has allowed them peace and stability, despite the constant threat of the infected and other, more desperate survivors.\n\nWhen a violent event disrupts that peace, Ellie embarks on a relentless journey to carry out justice and find closure. As she hunts those responsible one by one, she is confronted with the devastating physical and emotional repercussions of her actions.",
+    "summary": "Set 5 years after the events of The Last of Us, we see the return of Joel and Ellie. Driven by hatred, Ellie sets out for Seattle to serve justice. However, she begins to wonder what justice really means.",
+    "total_rating": 93.88217777411546,
+    "url": "https://www.igdb.com/games/the-last-of-us-part-ii"
+  },
+  {
+    "id": 141503,
+    "aggregated_rating": 94.5555555555556,
+    "cover": {
+      "id": 171645,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ofx.jpg"
+    },
+    "first_release_date": 1636416000,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 154821,
+        "company": {
+          "id": 1432,
+          "name": "Playground Games"
+        }
+      },
+      {
+        "id": 154822,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        }
+      }
+    ],
+    "name": "Forza Horizon 5",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      }
+    ],
+    "rating": 85.9398311206882,
+    "storyline": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.\n\nThis is Your Horizon Adventure\nLead breathtaking expeditions across the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.\n\nThis is a Diverse Open World\nExplore a world of striking contrast and beauty. Discover living deserts, lush jungles, historic cities, hidden ruins, pristine beaches, vast canyons and a towering snow-capped volcano.\n\nThis is an Adventurous Open World\nImmerse yourself in a deep campaign with hundreds of challenges that reward you for engaging in the activities you love. Meet new characters and choose the outcomes of their Horizon Story missions.\n\nThis is an Evolving Open World\nTake on awe-inspiring weather events such as towering dust storms and intense tropical storms as Mexico’s unique, dynamic seasons change the world every week. Keep coming back for new events, challenges, collectibles, and rewards, and new areas to explore. No two seasons will ever be the same.\n\nThis is a Social Open World\nTeam up with other players and enter the Horizon Arcade for a continuing series of fun, over-the-top challenges that keep you and your friends in the action and having fun with no menus, loading screens or lobbies. Meet new friends in Horizon Open and Tours and share your creations with new community gift sharing.\n\nThis is Your Open World\nCreate your own expressions of fun with the powerful new EventLab gameplay toolset including custom races, challenges, stunts, and entirely new game modes. Customize your cars in more ways than ever before with new options such as the ability open and close convertible tops, paint brake calipers, and more. Use the new Gift Drops feature to share your custom creations with the community.\n\nBegin Your Horizon Adventure today!",
+    "summary": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open-world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.",
+    "total_rating": 90.2476933381219,
+    "url": "https://www.igdb.com/games/forza-horizon-5"
+  },
+  {
+    "id": 559,
+    "aggregated_rating": 94.375,
+    "cover": {
+      "id": 156701,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3cwt.jpg"
+    },
+    "first_release_date": 1257811200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 5693,
+        "company": {
+          "id": 438,
+          "name": "Infinity Ward"
+        }
+      },
+      {
+        "id": 19977,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        }
+      },
+      {
+        "id": 19978,
+        "company": {
+          "id": 319,
+          "name": "n-Space"
+        }
+      },
+      {
+        "id": 88756,
+        "company": {
+          "id": 3848,
+          "name": "SPOV"
+        }
+      },
+      {
+        "id": 88757,
+        "company": {
+          "id": 3466,
+          "name": "The Ant Farm"
+        }
+      },
+      {
+        "id": 88758,
+        "company": {
+          "id": 4017,
+          "name": "Earbash Inc."
+        }
+      },
+      {
+        "id": 88759,
+        "company": {
+          "id": 166,
+          "name": "Shadows in Darkness"
+        }
+      },
+      {
+        "id": 88760,
+        "company": {
+          "id": 3470,
+          "name": "Vykarian"
+        }
+      },
+      {
+        "id": 88761,
+        "company": {
+          "id": 1650,
+          "name": "PCB Productions"
+        }
+      },
+      {
+        "id": 88762,
+        "company": {
+          "id": 2655,
+          "name": "SIDE UK Ltd"
+        }
+      },
+      {
+        "id": 88763,
+        "company": {
+          "id": 6465,
+          "name": "87eleven"
+        }
+      },
+      {
+        "id": 88764,
+        "company": {
+          "id": 1644,
+          "name": "Xloc. inc"
+        }
+      },
+      {
+        "id": 88765,
+        "company": {
+          "id": 9254,
+          "name": "Blade Games World"
+        }
+      },
+      {
+        "id": 88766,
+        "company": {
+          "id": 2466,
+          "name": "Ignited Minds, LLC"
+        }
+      },
+      {
+        "id": 88767,
+        "company": {
+          "id": 3853,
+          "name": "Hamagami/Carroll Inc."
+        }
+      }
+    ],
+    "name": "Call of Duty: Modern Warfare 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 20,
+        "name": "Nintendo DS"
+      }
+    ],
+    "rating": 81.80105509299929,
+    "storyline": "Despite the efforts of the U.S. Marine Corps and British Special Air Service in the previous game, the Ultranationalists seize control of Russia, and declare Imran Zakhaev a hero and martyr, erecting a statue of him in the heart of Red Square. This strains diplomatic relations with the United States. Meanwhile, Vladimir Makarov, one of Zakhaev\u0027s former lieutenants, begins a campaign of revenge for his death, by committing acts of terrorism over the course of five years",
+    "summary": "Call of Duty: Modern Warfare 2 is a first-person shooter video game developed by Infinity Ward and published by Activision for the Xbox 360 and PlayStation 3 video game consoles and the Microsoft Windows operating system. Officially announced on February 11, 2009, the game was released worldwide on November 10, 2009. It is the sixth installment of the Call of Duty series and the direct sequel to Call of Duty 4: Modern Warfare, continuing the same storyline, with Call of Duty: Modern Warfare 3 set to end the storyline.",
+    "total_rating": 88.08802754649965,
+    "url": "https://www.igdb.com/games/call-of-duty-modern-warfare-2"
+  },
+  {
+    "id": 113112,
+    "aggregated_rating": 94.0625,
+    "cover": {
+      "id": 152760,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39vc.jpg"
+    },
+    "first_release_date": 1600300800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 108827,
+        "company": {
+          "id": 928,
+          "name": "Supergiant Games"
+        }
+      }
+    ],
+    "name": "Hades",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      }
+    ],
+    "rating": 92.871345750668,
+    "storyline": "Zagreus, the son of Hades, has discovered that his mother, which he was led to believe was Nyx, Night Incarnate, is actually someone else, and is outside Hell. He is now attempting to escape his father\u0027s domain, with the help of the other gods of Olympus, in an attempt to find his real mother.",
+    "summary": "A rogue-lite hack and slash dungeon crawler in which Zagreus, son of Hades the Greek god of the dead, attempts to escape his home and his oppressive father by fighting the souls of the dead through the various layers of the ever-shifting underworld, while getting to know and forging relationships with its inhabitants.",
+    "total_rating": 93.466922875334,
+    "url": "https://www.igdb.com/games/hades--1"
+  },
+  {
+    "id": 25076,
+    "aggregated_rating": 94.0588235294118,
+    "cover": {
+      "id": 80403,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1q1f.jpg"
+    },
+    "first_release_date": 1540512000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 40855,
+        "company": {
+          "id": 139,
+          "name": "Take-Two Interactive"
+        }
+      },
+      {
+        "id": 98112,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        }
+      }
+    ],
+    "name": "Red Dead Redemption 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 170,
+        "name": "Google Stadia"
+      }
+    ],
+    "rating": 92.64029192468101,
+    "storyline": "America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs. Those who will not surrender or succumb are killed.\n\nAfter a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.",
+    "summary": "Red Dead Redemption 2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.",
+    "total_rating": 93.3495577270464,
+    "url": "https://www.igdb.com/games/red-dead-redemption-2"
+  },
+  {
+    "id": 2180,
+    "aggregated_rating": 93.9285714285714,
+    "cover": {
+      "id": 95737,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21vd.jpg"
+    },
+    "first_release_date": 1384992000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69096,
+        "company": {
+          "id": 2910,
+          "name": "1-UP Studio"
+        }
+      },
+      {
+        "id": 98976,
+        "company": {
+          "id": 421,
+          "name": "Nintendo EAD"
+        }
+      },
+      {
+        "id": 129522,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      }
+    ],
+    "name": "Super Mario 3D World",
+    "platforms": [
+      {
+        "id": 41,
+        "name": "Wii U"
+      }
+    ],
+    "rating": 85.09920855998641,
+    "storyline": "While having a walk in the Mushroom Kingdom, Mario, Toad and Peach, and Luigi happen on one of the many green pipes, yet a special one. A fairy, which they\u0027ll learn is Princess Sprixie, comes out. Bowser is chasing after her, though: he kidnaps her and vanishes through the pipe. Mario and the friends of his can\u0027t but promptly jump into the pipe, and they find themselves in the Sprinxie Kingdom, tasked with rescuing the princess.",
+    "summary": "Super Mario 3D World is a 3D platformer action game for the Wii U, and a follow-up of the Nintendo 3DS installment Super Mario 3D Land. The game builds upon the previous installment, following a similar 3D level-design convention inspired from the 2D platformer titles where players must navigate through a linear-designed level within a time limit to reach a level\u0027s Goal Pole. One key aspect introduced in this title is the simultaneous multiplayer: while not the first game in the series to do so, it is the first 3D title in the Mario series to incorporate up to four players cooperating with each other to reach the goal. Players can select their character from a pool of playable characters prior to starting the game, and each of these characters have their own unique playstyle that gives them advantages and disadvantages over other characters. The game makes use of several Wii U exclusive features, such as tapping blocks with the touch screen on the GamePad and blowing into the mic to reveal hidden items and blow away enemies. Various new power-ups are introduced in this title, with the trademark suit being the Cat power-up, which enables characters to perform a melee attack, climb up walls, and leap while midair, as well as the game generally having a cat-based theme.",
+    "total_rating": 89.51388999427891,
+    "url": "https://www.igdb.com/games/super-mario-3d-world"
+  },
+  {
+    "id": 2985,
+    "aggregated_rating": 93.875,
+    "cover": {
+      "id": 76533,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1n1x.jpg"
+    },
+    "first_release_date": 1339718400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 24863,
+        "company": {
+          "id": 2262,
+          "name": "NIS America"
+        }
+      },
+      {
+        "id": 102050,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        }
+      },
+      {
+        "id": 102051,
+        "company": {
+          "id": 2488,
+          "name": "Atlus USA"
+        }
+      },
+      {
+        "id": 158627,
+        "company": {
+          "id": 10025,
+          "name": "PREAPP PARTNERS"
+        }
+      }
+    ],
+    "name": "Persona 4 Golden",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 46,
+        "name": "PlayStation Vita"
+      }
+    ],
+    "rating": 95.7942130074319,
+    "summary": "An enhanced rerelease of Shin Megami Tensei: Persona 4 (2008) featuring quality-of-life improvements, gameplay enhancements, new locations, balance tweaks, online functionality, new difficulty options, an additional side character storyline and a changed endgame.",
+    "total_rating": 94.83460650371595,
+    "url": "https://www.igdb.com/games/persona-4-golden"
+  },
+  {
+    "id": 1352,
+    "aggregated_rating": 93.8571428571429,
+    "cover": {
+      "id": 80666,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1q8q.jpg"
+    },
+    "first_release_date": 1331596800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 107802,
+        "company": {
+          "id": 857,
+          "name": "ThatGameCompany"
+        }
+      },
+      {
+        "id": 107803,
+        "company": {
+          "id": 45,
+          "name": "Sony Computer Entertainment, Inc. (SCEI)"
+        }
+      },
+      {
+        "id": 107804,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        }
+      },
+      {
+        "id": 110636,
+        "company": {
+          "id": 15512,
+          "name": "SCE Santa Monica Studio"
+        }
+      }
+    ],
+    "name": "Journey",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 86.4170578616255,
+    "storyline": "Journey‍ \u0027​s story is told wordlessly through in-game and pre-rendered cutscenes. The player\u0027s character begins on a sand dune in a seemingly endless desert. In the far distance looms a large, foreboding mountain with a glowing crevice that splits its peak. As the character approaches the mountain, they find remnants of a once-thriving civilization, eroded by sand over time. Scattered throughout the ruins at the end of each area are stones at which the traveler rests; these give the traveler the vision of meeting a larger, white-robed figure in a circular room, with art on the walls describing the rise and fall of the civilization, mirroring the player\u0027s journey.\n\nThe player continues to journey deeper into the remains of a once sprawling city at the base of the mountain. Eventually making it safely to the mountain, the traveler begins to climb it, struggling as they enter the colder climates and encounter deep snow and high winds. With the crevice still a fair distance away, the traveler falls and collapses in the snow. Six of the white-robed figures appear and grant the traveler new energy, allowing the player to reach the summit of the mountain and walk into and through the crevice as the screen fills with white. The player is then shown the game\u0027s credits, playing over the ending cinematic. This cinematic shows a shooting star emanating from the crevice and traversing the path the traveler took through the ruins, and shows glimpses of other robed travelers heading towards the mountain. Eventually, the star comes to rest at the sand dune where the game began, and the player is given the option of starting the game again. As the credits end, the player is shown the PlayStation Network IDs of the other travelers who shared part of the trek.",
+    "summary": "A third-person adventure game in which the player, controlling a robed figure, makes a pilgrimage through a desert landscape to a rugged mountain with a beacon of light in the distance while uncovering the history of their people, rescuing and cooperating with friendly creatures, avoiding predatory ones and communicating with other travelers.",
+    "total_rating": 90.13710035938419,
+    "url": "https://www.igdb.com/games/journey"
+  },
+  {
+    "id": 116,
+    "aggregated_rating": 93.6666666666667,
+    "cover": {
+      "id": 85067,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmz.jpg"
+    },
+    "first_release_date": 1058227200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18949,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        }
+      },
+      {
+        "id": 18950,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        }
+      },
+      {
+        "id": 18951,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        }
+      },
+      {
+        "id": 150347,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        }
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 11,
+        "name": "Xbox"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 90.87177028601859,
+    "storyline": "It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side? Hero or villain, savior or conqueror... you alone will determine the destiny of the entire galaxy!\n\nFormer Jedi Darth Malak, a Dark Lord of the Sith and Darth Revan\u0027s former apprentice, has unleashed a Sith armada against the Republic. Malak\u0027s aggression has left the Jedi scattered and vulnerable; many Jedi Knights have fallen in battle and others have sworn allegiance to Malak.\n\nThe game opens with the player\u0027s character - the player can choose a face and be male or female (canonically a male) - awakening aboard the Republic ship, Endar Spire, which is under attack by Malak\u0027s forces. The player\u0027s character gradually gathers companions and pieces together their past while attempting to stop Malak.\n\nThe game is a part of the Star Wars Legends Universe.",
+    "summary": "Choose Your Path! Set 4,000 years before the Galactic Empire, you are the last hope for the Jedi Order and the Republic - can you master the ways of the Force to become their savior? Or will you fall to the dark side and achieve ultimate power? Hero, villain, peacekeeper, or chaos-bringer... you and your party will determine the fate of the galaxy!\n\nStar Wars: Knights of the Old Republic is a role-playing video game. Players will be able to create their own characters and be able to choose what gender, appearance, class, skills, attributes, and feats they have throughout the game - no two characters will be the same!",
+    "total_rating": 92.26921847634264,
+    "url": "https://www.igdb.com/games/star-wars-knights-of-the-old-republic"
+  },
+  {
+    "id": 9927,
+    "aggregated_rating": 93.5714285714286,
+    "cover": {
+      "id": 81906,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r76.jpg"
+    },
+    "first_release_date": 1473897600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 23554,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        }
+      },
+      {
+        "id": 35623,
+        "company": {
+          "id": 2488,
+          "name": "Atlus USA"
+        }
+      },
+      {
+        "id": 35624,
+        "company": {
+          "id": 9969,
+          "name": "P Studio"
+        }
+      },
+      {
+        "id": 37286,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        }
+      }
+    ],
+    "name": "Persona 5",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 93.0153990446258,
+    "storyline": "The story focuses on the 16-year-old protagonist after he is transferred to Syujin High School in Tokyo, Japan. Staying with friends of his parents, he meets up with problem child Ryuji Sakamoto, the withdrawn Ann Takamaki, art student Yusuke Kitagawa, and a talking, shape-shifting cat-like creature known as Morgana.\n\nDuring the protagonist\u0027s time there, feeling suppressed by their environment, the five form a group known as the \"Phantom Thieves of Hearts\", working together to explore the \"Palace\", a castle created by the hearts of people, and steal ill intent from others\u0027 hearts to help them: during this quest, they confront adult authority figures opposing them, along with a greater enemy revealed by their activities.",
+    "summary": "Persona 5, a turn-based JRPG with visual novel elements, follows a high school student with a criminal record for a crime he didn\u0027t commit. Soon he meets several characters who share similar fates to him, and discovers a metaphysical realm which allows him and his friends to channel their pent-up frustrations into becoming a group of vigilantes reveling in aesthetics and rebellion while fighting corruption.",
+    "total_rating": 93.2934138080272,
+    "url": "https://www.igdb.com/games/persona-5"
+  },
+  {
+    "id": 7471,
+    "aggregated_rating": 93.3333333333333,
+    "cover": {
+      "id": 110097,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2cy9.jpg"
+    },
+    "first_release_date": 1245715200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17631,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        }
+      },
+      {
+        "id": 17632,
+        "company": {
+          "id": 65,
+          "name": "Luxoflux"
+        }
+      },
+      {
+        "id": 17633,
+        "company": {
+          "id": 432,
+          "name": "Beenox"
+        }
+      },
+      {
+        "id": 17634,
+        "company": {
+          "id": 385,
+          "name": "Krome Studios"
+        }
+      },
+      {
+        "id": 17635,
+        "company": {
+          "id": 72,
+          "name": "Vicarious Visions"
+        }
+      },
+      {
+        "id": 17636,
+        "company": {
+          "id": 64,
+          "name": "Savage Entertainment"
+        }
+      }
+    ],
+    "name": "Transformers: Revenge of the Fallen",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 20,
+        "name": "Nintendo DS"
+      },
+      {
+        "id": 38,
+        "name": "PlayStation Portable"
+      }
+    ],
+    "rating": 78.8338976164842,
+    "storyline": "The storyline is told via cutscenes that also allow for the player to easily transition from one character to the other. Playable characters on the Autobot side include: Optimus Prime, Iron Hide, Jetfire, Bumblebee. The Decepticon side includes: Starscream, Sideways (a new character), and Megatron.\n\nThough the game doesn’t allow transform wherever the player wants to, transformation has been introduced as special attacks during robot mode, as fixed alternate game modes (driving Shanghai tunnels as Sideways, and fly through the skies of Russia as Starscream) and, in both robot and vehicle modes, as special moves that give the player alternate abilities. For example, transforming as Starscream while flying will enable him to fly backwards as a robot to take out enemies behind the protagonist.\n\nFor multiplayer, at any point during a single-player campaign a friend can join in as a \"Remote Weapon System\", which allows them to shoot enemies, erect a shield to defend and transfer energon between both players.",
+    "summary": "Transformers: Revenge of the Fallen is set a few years after the defeat of Megatron in the first game. The game is a linear third-person shooter that puts the player in control of many of the main characters from the movie, shifting between both Autobot and Decepticon factions.",
+    "total_rating": 86.08361547490875,
+    "url": "https://www.igdb.com/games/transformers-revenge-of-the-fallen"
+  },
+  {
+    "id": 36926,
+    "aggregated_rating": 93.25,
+    "cover": {
+      "id": 82685,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rst.jpg"
+    },
+    "first_release_date": 1516924800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 59586,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        }
+      }
+    ],
+    "name": "Monster Hunter: World",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 84.7460098263864,
+    "summary": "Welcome to a new world! Take on the role of a hunter and slay ferocious monsters in a living, breathing ecosystem where you can use the landscape and its diverse inhabitants to get the upper hand. Hunt alone or in co-op with up to three other players, and use materials collected from fallen foes to craft new gear and take on even bigger, badder beasts!",
+    "total_rating": 88.9980049131932,
+    "url": "https://www.igdb.com/games/monster-hunter-world"
+  },
+  {
+    "id": 7331,
+    "aggregated_rating": 93.24,
+    "cover": {
+      "id": 81917,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7h.jpg"
+    },
+    "first_release_date": 1462838400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17326,
+        "company": {
+          "id": 401,
+          "name": "Naughty Dog"
+        }
+      },
+      {
+        "id": 130942,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      }
+    ],
+    "name": "Uncharted 4: A Thief\u0027s End",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 91.63214943949839,
+    "summary": "Several years after his last adventure, retired fortune hunter, Nathan Drake, is forced back into the world of thieves. With the stakes much more personal, Drake embarks on a globe-trotting journey in pursuit of a historical conspiracy behind a fabled pirate treasure. His greatest adventure will test his physical limits, his resolve, and ultimately what he\u0027s willing to sacrifice to save the ones he loves.",
+    "total_rating": 92.4360747197492,
+    "url": "https://www.igdb.com/games/uncharted-4-a-thief-s-end"
+  },
+  {
+    "id": 37094,
+    "aggregated_rating": 93.2307692307692,
+    "cover": {
+      "id": 102488,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co272w.jpg"
+    },
+    "first_release_date": 1517875200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 51108,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      },
+      {
+        "id": 51109,
+        "company": {
+          "id": 1030,
+          "name": "Bluepoint Games"
+        }
+      },
+      {
+        "id": 51110,
+        "company": {
+          "id": 10692,
+          "name": "SIE Japan Studio"
+        }
+      }
+    ],
+    "name": "Shadow of the Colossus",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 84.917356350215,
+    "storyline": "The story of Shadow of the Colossus begins as Wander enters the forbidden land, traveling across a long bridge on his horse, Agro. Unknown to the player, prior to entering, Wander had stolen an ancient sword, which is the only weapon capable of slaying the colossi. Led to the massive Shrine of Worship at the center of the region, Wander carries with him the body of a maiden named Mono. A moment later, several humanoid shadow creatures appear and approach Wander before he easily dismisses them with a wave of the ancient sword in his possession. After vanquishing the shadow creatures, the voice of the disembodied entity known as \"Dormin\" echoes from above, expressing surprise that Wander possesses the weapon. Wander requests that Dormin return Mono\u0027s soul to her body, which Dormin states may be possible on the condition that Wander can destroy the sixteen idols lining the temple\u0027s hall by using the ancient sword to kill each colossus the idols represent located throughout the land. Despite being warned by Dormin that he may have to pay a great price to revive Mono, Wander sets out to search the land for the colossi and destroy them.",
+    "summary": "Tales speak of an ancient land where creatures the size of mountains, roam the majestic landscape. Bound to the land, these creatures hold a key to a mystical power of revival - a power you must obtain to waken a loved one. \n \n \nShadow of the Colossus is a majestic journey through ancient lands to seek out and destroy gigantic mythical beasts. With your trusty horse at your side, explore the spacious lands and unearth each Colossi. Armed with your wits, a sword and a bow, use cunning and strategy to topple each behemoth. \n \n \nA remake of the critically-claimed game of the same title. Also from the minds that brought you The Last Guardian \u0026 ICO",
+    "total_rating": 89.07406279049209,
+    "url": "https://www.igdb.com/games/shadow-of-the-colossus--1"
+  },
+  {
+    "id": 538,
+    "aggregated_rating": 93.2142857142857,
+    "cover": {
+      "id": 123158,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2n12.jpg"
+    },
+    "first_release_date": 1361836800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33844,
+        "company": {
+          "id": 21,
+          "name": "Irrational Games"
+        }
+      },
+      {
+        "id": 33845,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        }
+      },
+      {
+        "id": 33846,
+        "company": {
+          "id": 3023,
+          "name": "Virtual Programming"
+        }
+      },
+      {
+        "id": 71415,
+        "company": {
+          "id": 413,
+          "name": "Human Head Studios"
+        }
+      }
+    ],
+    "name": "Bioshock Infinite",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 85.9374221643268,
+    "storyline": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, Booker and Elizabeth form a powerful bond during their daring escape. Together, they learn to harness an expanding arsenal of weapons and abilities, as they fight on zeppelins in the clouds, along high-speed Sky-Lines, and down in the streets of Columbia, all while surviving the threats of the air-city and uncovering its dark secret.",
+    "summary": "This first-person story-driven shooter and entry in the Bioshock franchise follows Booker DeWitt as he enters the floating independent (formerly US) city of Columbia in 1912 and attempts to retrieve a girl trapped in a tower by the city\u0027s self-proclaimed despot/prophet in order to erase his financial debt. Throughout the story, themes of violence, racism and fatalism are brought up.",
+    "total_rating": 89.57585393930626,
+    "url": "https://www.igdb.com/games/bioshock-infinite"
+  },
+  {
+    "id": 19686,
+    "aggregated_rating": 92.8333333333333,
+    "cover": {
+      "id": 70959,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ir3.jpg"
+    },
+    "first_release_date": 1548374400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65549,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        }
+      }
+    ],
+    "name": "Resident Evil 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 87.8801097935538,
+    "storyline": "Players join rookie police officer Leon Kennedy and college student Claire Redfield, who are thrust together by a disastrous outbreak in Raccoon City that transformed its population into deadly zombies. Both Leon and Claire have their own separate playable campaigns, allowing players to see the story from both characters’ perspectives. The fate of these two fan favorite characters is in players hands as they work together to survive and get to the bottom of what is behind the terrifying attack on the city.",
+    "summary": "The genre-defining masterpiece Resident Evil 2 returns, completely rebuilt from the ground up for a deeper narrative experience. A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors. An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you. Will you make it out alive?",
+    "total_rating": 90.35672156344356,
+    "url": "https://www.igdb.com/games/resident-evil-2--1"
+  },
+  {
+    "id": 26764,
+    "aggregated_rating": 92.8235294117647,
+    "cover": {
+      "id": 94741,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co213p.jpg"
+    },
+    "first_release_date": 1493337600,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43580,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        }
+      },
+      {
+        "id": 43581,
+        "company": {
+          "id": 4034,
+          "name": "Nintendo of Europe"
+        }
+      },
+      {
+        "id": 46347,
+        "company": {
+          "id": 7902,
+          "name": "Nintendo EPD"
+        }
+      }
+    ],
+    "name": "Mario Kart 8 Deluxe",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 84.43211841873631,
+    "summary": "Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.!",
+    "total_rating": 88.6278239152505,
+    "url": "https://www.igdb.com/games/mario-kart-8-deluxe"
+  },
+  {
+    "id": 126098,
+    "aggregated_rating": 92.7777777777778,
+    "cover": {
+      "id": 85179,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tq3.jpg"
+    },
+    "first_release_date": 1584921600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 150849,
+        "company": {
+          "id": 56,
+          "name": "Valve Corporation"
+        }
+      }
+    ],
+    "name": "Half-Life: Alyx",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 161,
+        "name": "Windows Mixed Reality"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      },
+      {
+        "id": 385,
+        "name": "Oculus Rift"
+      }
+    ],
+    "rating": 92.6387418976722,
+    "storyline": "Playing as Alyx Vance, you are humanity’s only chance for survival. The Combine’s control of the planet since the Black Mesa incident has only strengthened as they corral the remaining population in cities. Among them are some of Earth’s greatest scientists: you and your father, Dr. Eli Vance.\n\nAs founders of a fledgling resistance, you’ve continued your clandestine scientific activity—performing critical research, and building invaluable tools for the few humans brave enough to defy the Combine.\n\nEvery day, you learn more about your enemy, and every day you work toward finding a weakness.",
+    "summary": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2.\n\nSet between the events of Half-Life and Half-Life 2, Alyx Vance and her father Eli mount an early resistance to the Combine\u0027s brutal occupation of Earth.",
+    "total_rating": 92.708259837725,
+    "url": "https://www.igdb.com/games/half-life-alyx"
+  },
+  {
+    "id": 26845,
+    "aggregated_rating": 92.7777777777778,
+    "cover": {
+      "id": 76781,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1n8t.jpg"
+    },
+    "first_release_date": 1564012800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43784,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 77289,
+        "company": {
+          "id": 18532,
+          "name": "Koei Tecmo"
+        }
+      },
+      {
+        "id": 131831,
+        "company": {
+          "id": 25077,
+          "name": "Intelligent Systems"
+        }
+      }
+    ],
+    "name": "Fire Emblem: Three Houses",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 88.5557463816161,
+    "storyline": "War is coming to the continent of Fódlan.\n\nHere, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters. You are invited to teach one of its three mighty houses, each comprised of students brimming with personality and represented by a royal from one of three territories. As their professor, you must lead your students in their academic lives and in turn-based, tactical RPG battles wrought with strategic, new twists to overcome. Which house, and which path, will you choose?",
+    "summary": "Here, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters. You are invited to teach one of its three mighty houses, each comprised of students brimming with personality and represented by a royal from one of three territories. As their professor, you must lead your students in their academic lives and in turn-based, tactical RPG battles wrought with strategic, new twists to overcome. Which house, and which path, will you choose?",
+    "total_rating": 90.66676207969695,
+    "url": "https://www.igdb.com/games/fire-emblem-three-houses"
+  },
+  {
+    "id": 134582,
+    "aggregated_rating": 92.5,
+    "cover": {
+      "id": 130671,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2str.jpg"
+    },
+    "first_release_date": 1623369600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 113736,
+        "company": {
+          "id": 834,
+          "name": "Insomniac Games"
+        }
+      },
+      {
+        "id": 113737,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      }
+    ],
+    "name": "Ratchet \u0026 Clank: Rift Apart",
+    "platforms": [
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "rating": 89.7065714137116,
+    "storyline": "They\u0027ve travelled through space. They\u0027ve travelled through time. Now, they\u0027ll have to travel through dimensions as their galaxy seems to rip itself apart. Ratchet and Clank must save the universe - again.",
+    "summary": "Go dimension-hopping with Ratchet and Clank as they take on an evil emperor from another reality. Jump between action-packed worlds and beyond at mind-blowing speeds, complete with dazzling visuals and an insane arsenal.",
+    "total_rating": 91.1032857068558,
+    "url": "https://www.igdb.com/games/ratchet-and-clank-rift-apart"
+  },
+  {
+    "id": 7342,
+    "aggregated_rating": 92.4871794871795,
+    "cover": {
+      "id": 113194,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2fca.jpg"
+    },
+    "first_release_date": 1467158400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 113422,
+        "company": {
+          "id": 854,
+          "name": "Playdead"
+        }
+      }
+    ],
+    "name": "INSIDE",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 86.5957666374136,
+    "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
+    "total_rating": 89.54147306229655,
+    "url": "https://www.igdb.com/games/inside"
+  },
+  {
+    "id": 72,
+    "aggregated_rating": 92.4444444444444,
+    "cover": {
+      "id": 82660,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rs4.jpg"
+    },
+    "first_release_date": 1303171200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 106733,
+        "company": {
+          "id": 56,
+          "name": "Valve Corporation"
+        }
+      },
+      {
+        "id": 106734,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      }
+    ],
+    "name": "Portal 2",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "rating": 91.7237505256203,
+    "storyline": "You lost your memory, you are alone in a world full of danger, and your mission is survive using your mind. The only way to get out from this hell is.....Hi i\u0027m GLAdOS, and welcome to the amazing world of portal 2, here i will expose you to a lot of tests, and try to k.. help Aperture Science envolve in a new era.\nYour job is advance in the levels i propose and get better and better, you will have an portal gun to help you, and remember nothing is impossible if you try, and try again and again and again....\nThe puzzles are waiting for you!",
+    "summary": "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun\u0027s mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs.",
+    "total_rating": 92.08409748503234,
+    "url": "https://www.igdb.com/games/portal-2"
+  },
+  {
+    "id": 1968,
+    "aggregated_rating": 92.4285714285714,
+    "cover": {
+      "id": 168848,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ma8.jpg"
+    },
+    "first_release_date": 1377820800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165084,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        }
+      },
+      {
+        "id": 165085,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        }
+      }
+    ],
+    "name": "Rayman Legends",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 170,
+        "name": "Google Stadia"
+      }
+    ],
+    "rating": 85.55544703421671,
+    "summary": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
+    "total_rating": 88.99200923139406,
+    "url": "https://www.igdb.com/games/rayman-legends"
+  },
+  {
+    "id": 2909,
+    "aggregated_rating": 92.3333333333333,
+    "cover": {
+      "id": 172387,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3p0j.jpg"
+    },
+    "first_release_date": 1385078400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 7127,
+        "company": {
+          "id": 1366,
+          "name": "Nintendo EAD Group No. 3"
+        }
+      },
+      {
+        "id": 126459,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      }
+    ],
+    "name": "The Legend of Zelda: A Link Between Worlds",
+    "platforms": [
+      {
+        "id": 37,
+        "name": "Nintendo 3DS"
+      }
+    ],
+    "rating": 88.2223491915447,
+    "storyline": "The events of A Link Between Worlds take place six generations after the events of A Link to the Past. The legend of the legendary hero\u0027s battles against Ganon has been passed down from generation to generation, and peace has ruled for decades. The game\u0027s incarnation of Link is an apprentice blacksmith to Hyrule\u0027s greatest Blacksmith.\n\nBeset by a nightmare of the sacred Triforce being destroyed and facing a gargantuan evil creature, Link is awakened from his sleep by Gulley, the Blacksmith\u0027s son. Link rushes over to the smithery, where the Captain of Hyrule\u0027s knights has stopped by to retrieve his sword and shield. After Link is scolded for being late, the Blacksmith\u0027s Wife notices that the Captain forgot to bring his sword along with him when he left. Link is tasked with traveling to Hyrule Castle to return it to its rightful owner. Once Link arrives at the castle however, he is told that the Captain went to the Sanctuary. Upon his arrival there, however, the villain Yuga appears, and turns both Seres and the Captain into paintings with his wicked magic. Link lunges at Yuga, but Yuga is able to use his magic to turn himself into a wall painting, causing Link to crash straight into the wall. Yuga then returns to his original form, kicking Link to the floor in the process. As Yuga leaves with Seres in tow, the Priest says to warn Princess Zelda of this before Link passes out.",
+    "summary": "The Legend of Zelda: A Link Between Worlds is the first Zelda game made exclusively for the Nintendo 3DS. A daring adventure awaits Link in Hyrule, where he can use his new ability to become a \"drawing\" and move along walls of dungeons. This opens up ways to explore and puzzle elements that give Link access to locations he could not otherwise reach.",
+    "total_rating": 90.277841262439,
+    "url": "https://www.igdb.com/games/the-legend-of-zelda-a-link-between-worlds"
+  },
+  {
+    "id": 43,
+    "aggregated_rating": 92.1111111111111,
+    "cover": {
+      "id": 82118,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rd2.jpg"
+    },
+    "first_release_date": 1314057600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        }
+      },
+      {
+        "id": 54,
+        "company": {
+          "id": 27,
+          "name": "Eidos Montréal"
+        }
+      },
+      {
+        "id": 46316,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        }
+      }
+    ],
+    "name": "Deus Ex: Human Revolution",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "rating": 84.43423946241839,
+    "storyline": "When a black ops team breaks in and kills the scientists Adam Jensen was hired to protect, everything he thought he knew about his job changes...",
+    "summary": "In Deus Ex: Human Revolution you play Adam Jensen, a security specialist, handpicked to oversee the defense of one of America\u0027s most experimental biotechnology firms. But when a black ops team breaks in and kills the scientists you were hired to protect, everything you thought you knew about your job changes. At a time when scientific advancements are routinely turning athletes, soldiers and spies into super-enhanced beings, someone is working very hard to ensure mankind\u0027s evolution follows a particular path. You need to discover why - because the decisions you take and the choices you make will be the only things that can determine mankind\u0027s future.",
+    "total_rating": 88.27267528676475,
+    "url": "https://www.igdb.com/games/deus-ex-human-revolution"
+  },
+  {
+    "id": 13166,
+    "aggregated_rating": 92.0,
+    "cover": {
+      "id": 121128,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lgo.jpg"
+    },
+    "first_release_date": 1464566400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 26862,
+        "company": {
+          "id": 908,
+          "name": "CD Projekt RED"
+        }
+      }
+    ],
+    "name": "The Witcher 3: Wild Hunt - Blood and Wine",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 96.8671415595742,
+    "summary": "Blood and Wine is the second major expansion to The Witcher 3: Wild Hunt. \n \nThe players will accompany Geralt of Rivia to the region of Toussaint, one of the few places in the Witcher universe which has remained largely untouched by the war. The calm, laid-back atmosphere holds a dark and bloody secret that only the White Wolf can uncover; the expansion features brand new items for us to collect on our adventure and also introduces previously unknown characters.",
+    "total_rating": 94.43357077978709,
+    "url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-blood-and-wine"
+  },
+  {
+    "id": 12503,
+    "aggregated_rating": 91.875,
+    "cover": {
+      "id": 84518,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1t7q.jpg"
+    },
+    "first_release_date": 1444608000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 26898,
+        "company": {
+          "id": 908,
+          "name": "CD Projekt RED"
+        }
+      }
+    ],
+    "name": "The Witcher 3: Wild Hunt - Hearts of Stone",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 93.5489169413239,
+    "storyline": "Hired by the Merchant of Mirrors, Geralt is tasked with overcoming Olgierd von Everec -- a ruthless bandit captain enchanted with the power of immortality.",
+    "summary": "Step again into the shoes of Geralt of Rivia, a professional monster slayer, this time hired to defeat a ruthless bandit captain, Olgierd von Everec, a man who possesses the power of immortality.\nThis expansion to \"The Witcher 3: Wild Hunt\" packs over 10 hours of new adventures, introducing new characters, powerful monsters, unique romance and a brand new storyline shaped by your choices.",
+    "total_rating": 92.71195847066195,
+    "url": "https://www.igdb.com/games/the-witcher-3-wild-hunt-hearts-of-stone"
+  },
+  {
+    "id": 5503,
+    "aggregated_rating": 91.8125,
+    "cover": {
+      "id": 77077,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nh1.jpg"
+    },
+    "first_release_date": 1435017600,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65727,
+        "company": {
+          "id": 164,
+          "name": "Rocksteady Studios"
+        }
+      },
+      {
+        "id": 65728,
+        "company": {
+          "id": 14055,
+          "name": "Warner Bros. Interactive Entertainment"
+        }
+      },
+      {
+        "id": 70442,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        }
+      }
+    ],
+    "name": "Batman: Arkham Knight",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 85.28730816089579,
+    "storyline": "In the explosive finale to the Arkham series, Batman faces the ultimate threat against the city he is sworn to protect. The Scarecrow returns to unite an impressive roster of supervillains, including Penguin, Two-Face, Harley Quinn, Firefly, Poison Ivy, and Riddler to destroy The Dark Knight forever. The most intriguing member of this alliance, however, is the deadly and enigmatic Arkham Knight.",
+    "summary": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady\u0027s uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever.",
+    "total_rating": 88.5499040804479,
+    "url": "https://www.igdb.com/games/batman-arkham-knight"
+  },
+  {
+    "id": 112874,
+    "aggregated_rating": 91.8,
+    "cover": {
+      "id": 115194,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gvu.jpg"
+    },
+    "first_release_date": 1645142400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 166703,
+        "company": {
+          "id": 1843,
+          "name": "Guerrilla Games"
+        }
+      },
+      {
+        "id": 166704,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      }
+    ],
+    "name": "Horizon Forbidden West",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "rating": 94.9296464111192,
+    "storyline": "Aloy treks into an arcane region and faces with new hostile enemies and threat in the search for the cause of a mysterious, dangerous blight.",
+    "summary": "Horizon Forbidden West continues Aloy’s story as she moves west to a far-future America to brave a majestic, but dangerous frontier where she’ll face awe-inspiring machines and mysterious new threats.",
+    "total_rating": 93.36482320555959,
+    "url": "https://www.igdb.com/games/horizon-forbidden-west"
+  },
+  {
+    "id": 434,
+    "aggregated_rating": 91.8,
+    "cover": {
+      "id": 120991,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lcv.jpg"
+    },
+    "first_release_date": 1274140800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3868,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        }
+      },
+      {
+        "id": 3869,
+        "company": {
+          "id": 365,
+          "name": "Rockstar North"
+        }
+      },
+      {
+        "id": 3870,
+        "company": {
+          "id": 364,
+          "name": "Rockstar San Diego"
+        }
+      },
+      {
+        "id": 18530,
+        "company": {
+          "id": 139,
+          "name": "Take-Two Interactive"
+        }
+      }
+    ],
+    "name": "Red Dead Redemption",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "rating": 89.4093910221817,
+    "storyline": "America, 1911. The Wild West is dying.\nWhen federal agents threaten his family, former outlaw John Marston is forced to pick up his guns again and hunt down the gang of criminals he once called friends. Experience an epic fight of the American West and Mexico, as John Marston struggles to bury his blood-stained past, one man at a time.\nOutlaws to the end.",
+    "summary": "A modern-day Western epic, Red Dead Redemption takes John Marston, a relic from the fast-closing time of the gunslinger, through an open-world filled with wildlife, mini games and shootouts. Marston sets out to hunt down his old gang mates for the government, who have taken away his family, and meets many characters emblematic of the Wild West, heroism and the new civilization along his journey.",
+    "total_rating": 90.60469551109085,
+    "url": "https://www.igdb.com/games/red-dead-redemption"
+  },
+  {
+    "id": 20744,
+    "aggregated_rating": 91.7894736842105,
+    "cover": {
+      "id": 96920,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co22s8.jpg"
+    },
+    "first_release_date": 1351555200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54245,
+        "company": {
+          "id": 2055,
+          "name": "Clover Studio"
+        }
+      },
+      {
+        "id": 78884,
+        "company": {
+          "id": 2670,
+          "name": "HexaDrive"
+        }
+      },
+      {
+        "id": 129638,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        }
+      }
+    ],
+    "name": "Ōkami HD",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 87.0269835890933,
+    "summary": "Experience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution. Take on the role of Amaterasu, the Japanese sun goddess who inhabits the form of a legendary white wolf, on a quest to defeat Orochi, an eight-headed demon and tyrannical monster responsible for turning the world of Nippon into a ruined wasteland.",
+    "total_rating": 89.4082286366519,
+    "url": "https://www.igdb.com/games/okami-hd"
+  },
+  {
+    "id": 75235,
+    "aggregated_rating": 91.7272727272727,
+    "cover": {
+      "id": 109855,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2crj.jpg"
+    },
+    "first_release_date": 1594944000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56819,
+        "company": {
+          "id": 403,
+          "name": "Sucker Punch Productions"
+        }
+      },
+      {
+        "id": 56820,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        }
+      }
+    ],
+    "name": "Ghost of Tsushima",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "rating": 89.78295401612179,
+    "storyline": "The year is 1274. Samurai warriors are the legendary defenders of Japan — until the fearsome Mongol Empire invades the island of Tsushima, wreaking havoc and conquering the local population. As one of the last surviving samurai, you rise from the ashes to fight back. But, honorable tactics won’t lead you to victory. You must move beyond your samurai traditions to forge a new way of fighting — the way of the Ghost — as you wage an unconventional war for the freedom of Japan.",
+    "summary": "Uncover the hidden wonders of Tsushima in this open-world action adventure. Forge a new path and wage an unconventional war for the freedom of Tsushima. Challenge opponents with your katana, master the bow to eliminate distant threats, develop stealth tactics to ambush enemies in order to win over the mongols.",
+    "total_rating": 90.75511337169725,
+    "url": "https://www.igdb.com/games/ghost-of-tsushima"
+  },
+  {
+    "id": 1942,
+    "aggregated_rating": 91.72,
+    "cover": {
+      "id": 89386,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wyy.jpg"
+    },
+    "first_release_date": 1431993600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17436,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        }
+      },
+      {
+        "id": 17768,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        }
+      },
+      {
+        "id": 17769,
+        "company": {
+          "id": 3119,
+          "name": "cdp.pl"
+        }
+      },
+      {
+        "id": 17771,
+        "company": {
+          "id": 1217,
+          "name": "Spike ChunSoft"
+        }
+      },
+      {
+        "id": 42142,
+        "company": {
+          "id": 908,
+          "name": "CD Projekt RED"
+        }
+      },
+      {
+        "id": 64293,
+        "company": {
+          "id": 5696,
+          "name": "D3T Limited"
+        }
+      }
+    ],
+    "name": "The Witcher 3: Wild Hunt",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 94.82802634066431,
+    "storyline": "The Witcher 3: Wild Hunt concludes the story of the witcher Geralt of Rivia, the series\u0027 protagonist, whose story to date has been covered in the previous installments. Geralt\u0027s new mission comes in dark times as the mysterious and otherworldly army known as the Wild Hunt invades the Northern Kingdoms, leaving only blood soaked earth and fiery ruin in its wake; and it seems the Witcher is the key to stopping their cataclysmic rampage.",
+    "summary": "RPG and sequel to The Witcher 2 (2011), The Witcher 3 follows witcher Geralt of Rivia as he seeks out his former lover and his young subject while intermingling with the political workings of the wartorn Northern Kingdoms. Geralt has to fight monsters and deal with people of all sorts in order to solve complex problems and settle contentious disputes, each ranging from the personal to the world-changing.",
+    "total_rating": 93.27401317033215,
+    "url": "https://www.igdb.com/games/the-witcher-3-wild-hunt"
+  },
+  {
+    "id": 1009,
+    "aggregated_rating": 91.5384615384615,
+    "cover": {
+      "id": 81915,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7f.jpg"
+    },
+    "first_release_date": 1371168000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 73932,
+        "company": {
+          "id": 401,
+          "name": "Naughty Dog"
+        }
+      },
+      {
+        "id": 73933,
+        "company": {
+          "id": 45,
+          "name": "Sony Computer Entertainment, Inc. (SCEI)"
+        }
+      }
+    ],
+    "name": "The Last of Us",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      }
+    ],
+    "rating": 93.45907954039549,
+    "storyline": "Joel, a ruthless survivor with few moral lines left to cross, lives in one of the last remaining Quarantine Zones. These walled-off, oppressive cities are run by what’s left of the military. Despite the strict martial law, Joel operates in the black market of the city, smuggling contraband for the right price.\n\nJoel is asked by a dying friend to look after Ellie, a fourteen-year-old girl with courage beyond her years. What starts out as a simple job to deliver Ellie to another Quarantine Zone, soon transforms into a profound journey that will forever change Joel and Ellie.\n\nAs they journey across a post-pandemic United States, Joel and Ellie will encounter different factions of survivors that have each found a unique way of dealing with the infected humans, the lack of supplies, and the threat of other survivors. As Joel and Ellie struggle to persevere, they must learn to trust each other and work together in order to survive the realities of this new world.",
+    "summary": "A third person shooter/stealth/survival hybrid, in which twenty years after the outbreak of a parasitic fungus which takes over the neural functions of humans, Joel, a Texan with a tragic familial past, finds himself responsible with smuggling a fourteen year old girl named Ellie to a militia group called the Fireflies, while avoiding strict and deadly authorities, infected fungal hosts and other violent survivors.",
+    "total_rating": 92.4987705394285,
+    "url": "https://www.igdb.com/games/the-last-of-us"
+  },
+  {
+    "id": 19746,
+    "aggregated_rating": 91.5,
+    "cover": {
+      "id": 99391,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co24ov.jpg"
+    },
+    "first_release_date": 1476316800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 151114,
+        "company": {
+          "id": 10189,
+          "name": "Enhance Games"
+        }
+      },
+      {
+        "id": 151115,
+        "company": {
+          "id": 10190,
+          "name": "Monstars"
+        }
+      },
+      {
+        "id": 151116,
+        "company": {
+          "id": 13246,
+          "name": "Resonair"
+        }
+      }
+    ],
+    "name": "Rez Infinite",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      },
+      {
+        "id": 164,
+        "name": "Daydream"
+      },
+      {
+        "id": 165,
+        "name": "PlayStation VR"
+      },
+      {
+        "id": 384,
+        "name": "Oculus Quest"
+      },
+      {
+        "id": 385,
+        "name": "Oculus Rift"
+      }
+    ],
+    "rating": 59.37533831433331,
+    "storyline": "The world of Rez is set in the near future on a massively overpopulated Earth with society crippled by crime rates, and on the verge of meltdown. In an attempt to resolve the chaos, a new global network was created: Project-K, overseen by a self-aware artificial intelligence named Eden. However, the increasing information flow and infection by a virus (the main character) confused Eden, allowing her to begin questioning the meaning of its existence and the consequences of her actions. Trying to fathom the paradoxes that surrounded her and realizing the power she possessed, she shut herself down.\n\nThe player character and protagonist is a hacker virus unofficially named Swayzak, traversing the Project-K network on a mission to re-awaken Eden and to reveal the true being at her core by progressing deeper through the system, and destroying the other viruses, anti-viruses, security programs, defense systems, and firewalls within.",
+    "summary": "The ultimate version of Sega\u0027s psychodelic rail-shooter adventure Rez, fully remastered and evolved, including VR support and additional new content, all by members of the original development team",
+    "total_rating": 75.43766915716665,
+    "url": "https://www.igdb.com/games/rez-infinite"
+  },
+  {
+    "id": 2135,
+    "aggregated_rating": 91.4285714285714,
+    "cover": {
+      "id": 7526,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/qocwccspgmgamvhaplgp.jpg"
+    },
+    "first_release_date": 1411171200,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 58910,
+        "company": {
+          "id": 852,
+          "name": "Platinum Games"
+        }
+      },
+      {
+        "id": 58911,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      }
+    ],
+    "name": "Bayonetta 2",
+    "platforms": [
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 90.27407862092178,
+    "storyline": "Starting a few months after the events of the first game, Bayonetta and Jeanne are fighting off a group of angels who attacked a city during a parade. During one particular attack, Jeanne protects Bayonetta from a sudden demon summon gone wrong, causing her soul to be claimed by the depths of Hell. Upon a tip from her informant Enzo, Bayonetta heads to the sacred mountain of Fimbulvinter. An entrance to Inferno, the Gates of Hell, is said to be inside and Bayonetta plans to use it to save her friend.",
+    "summary": "The witching hour strikes again. Brimming with intricate battles that take place in, on and all over epic set pieces, Bayonetta 2 finds our sassy heroine battling angels and demons in unearthly beautiful HD. You’re bound to love how it feels to string together combos with unimaginable weapons and to summon demons using Bayonetta’s Umbran Weave in this frantic stylized action game.",
+    "total_rating": 90.85132502474659,
+    "url": "https://www.igdb.com/games/bayonetta-2"
+  },
+  {
+    "id": 11800,
+    "aggregated_rating": 91.3076923076923,
+    "cover": {
+      "id": 90931,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y5v.jpg"
+    },
+    "first_release_date": 1505347200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 84884,
+        "company": {
+          "id": 510,
+          "name": "Larian Studios"
+        }
+      }
+    ],
+    "name": "Divinity: Original Sin II",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 87.3087282108437,
+    "storyline": "The Divine is dead. The Void approaches. And the powers lying dormant within you are soon to awaken. The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart.",
+    "summary": "Divinity: Original Sin II is a single- and multiplayer top-down, party-based role-playing game with pen \u0026 paper RPG-like levels of freedom. It features turn-based combat, a strong focus on systematic gameplay and a well-grounded narrative.",
+    "total_rating": 89.30821025926801,
+    "url": "https://www.igdb.com/games/divinity-original-sin-ii"
+  },
+  {
+    "id": 26226,
+    "aggregated_rating": 91.3,
+    "cover": {
+      "id": 155482,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3byy.jpg"
+    },
+    "first_release_date": 1516838400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 153403,
+        "company": {
+          "id": 33387,
+          "name": "Extremely OK Games"
+        }
+      }
+    ],
+    "name": "Celeste",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      },
+      {
+        "id": 170,
+        "name": "Google Stadia"
+      }
+    ],
+    "rating": 87.9315176500883,
+    "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+    "total_rating": 89.61575882504414,
+    "url": "https://www.igdb.com/games/celeste"
+  }
+]
