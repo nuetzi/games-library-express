@@ -30,7 +30,7 @@ const libraryController = require("./controllers/routes");
 app.use("/library", libraryController);
 
 const igdbGamesController = require("./controllers/igdbTop50");
-app.use("/top50", igdbGamesController);
+app.use("/toprated", igdbGamesController);
 
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
