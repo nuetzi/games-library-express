@@ -38,6 +38,21 @@ app.use("/topnes", igdbTopNESController);
 const igdbTopSNESController = require("./controllers/topSNES");
 app.use("/topsnes", igdbTopSNESController);
 
+const igdbTopN64Controller = require("./controllers/topN64");
+app.use("/topn64", igdbTopN64Controller);
+
+const igdbTopGamecubeController = require("./controllers/topGamecube");
+app.use("/topgamecube", igdbTopGamecubeController);
+
+const igdbTopWiiController = require("./controllers/topWii");
+app.use("/topwii", igdbTopWiiController);
+
+const igdbTopWiiUController = require("./controllers/topWiiU");
+app.use("/topwiiu", igdbTopWiiUController);
+
+const igdbTopSwitchController = require("./controllers/topSwitch");
+app.use("/topswitch", igdbTopSwitchController);
+
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
 });
