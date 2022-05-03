@@ -10,26 +10,26 @@ const SNESImports = require("../models/imports");
 
 
 router.get("/", (req, res) => {
-    TopImports.find({}, (err, foundImports) => {
+    TopImports.find({}, (err, foundTopImports) => {
         res.json(foundImports);
     });
 });
 
 router.get("/", (req, res) => {
-    NESImports.find({}, (err, foundImports) => {
+    NESImports.find({}, (err, foundNESImports) => {
         res.json(foundImports);
     });
 });
 
 router.get("/", (req, res) => {
-    SNESImports.find({}, (err, foundImports) => {
+    SNESImports.find({}, (err, foundSNESImports) => {
         res.json(foundImports);
     });
 });
 
 // Show Route
 router.get("/:id", (req, res) => {
-    TopImports.findById(req.params.id, (err, foundImport) => {
+    TopImports.findById(req.params.id, (err, foundTopImport) => {
         res.json(foundImport);
     });
 });
