@@ -31,5 +31,11 @@ const importsSchema = new mongoose.Schema({
     url: String
 });
 
-const Imports = mongoose.model("Import", importsSchema, "topRated");
-module.exports = Imports;
+const TopImports = mongoose.model("Import", importsSchema, "topRated");
+module.exports = TopImports;
+
+const NESImports = mongoose.model("Import", importsSchema, "topNES");
+module.exports = NESImports;
+
+const SNESImports = mongoose.model("Import", importsSchema, "topSNES");
+module.exports = SNESImports;
