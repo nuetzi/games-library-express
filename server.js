@@ -98,7 +98,7 @@ app.use("/topgamegear", igdbTopGameGearController);
 const igdbTopGenesisController = require("./controllers/topGenesis");
 app.use("/topgenesis", igdbTopGenesisController);
 
-const igdbTop3DSController = require("./controllers/top3DS");
+const igdbTop3DSController = require("./controllers/topNintendo3DS");
 app.use("/top3ds", igdbTop3DSController);
 
 const igdbTopNintendoDSController = require("./controllers/topNintendoDS");
