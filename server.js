@@ -68,6 +68,18 @@ app.use("/topps4", igdbTopPS4Controller);
 const igdbTopPS5Controller = require("./controllers/topPS5");
 app.use("/topps5", igdbTopPS5Controller);
 
+const igdbTopXbox360Controller = require("./controllers/topXbox360");
+app.use("/topxbox360", igdbTopXbox360Controller);
+
+const igdbTopXboxOneController = require("./controllers/topXboxOne");
+app.use("/topxboxone", igdbTopXboxOneController);
+
+const igdbTopXboxSeriesXController = require("./controllers/topXboxSeriesX");
+app.use("/topxboxseriesx", igdbTopXboxSeriesXController);
+
+const igdbTopXboxController = require("./controllers/topXbox");
+app.use("/topxbox", igdbTopXboxController);
+
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
 });
