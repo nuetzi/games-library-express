@@ -26,4 +26,20 @@ router.get("/:id", (req, res) => {
     });
 });
 
+
+// Delete Route
+router.delete("/:id", (req, res) => {
+    Imports.findByIdAndRemove(req.params.id, (err, deletedImport) => {
+        res.json(deletedImport);
+    });
+});
+
+// Update Route
+router.put("/:id", (req, res) => {
+    Imports.findByIdAndUpdate(req.params.id, req.body, {new:true}, (err, updatedImport) => {
+        res.json(updatedImport);
+    });
+});
+
+
 module.exports = router;
