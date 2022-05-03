@@ -68,6 +68,9 @@ app.use("/topps4", igdbTopPS4Controller);
 const igdbTopPS5Controller = require("./controllers/topPS5");
 app.use("/topps5", igdbTopPS5Controller);
 
+const igdbTopXboxController = require("./controllers/topXbox");
+app.use("/topxbox", igdbTopXboxController);
+
 const igdbTopXbox360Controller = require("./controllers/topXbox360");
 app.use("/topxbox360", igdbTopXbox360Controller);
 
@@ -76,9 +79,41 @@ app.use("/topxboxone", igdbTopXboxOneController);
 
 const igdbTopXboxSeriesXController = require("./controllers/topXboxSeriesX");
 app.use("/topxboxseriesx", igdbTopXboxSeriesXController);
+////////////////////////////////////////////////////////////////////////////////////////////////////
+const igdbTopDreamcastController = require("./controllers/topDreamcast");
+app.use("/topdreamcast", igdbTopDreamcastController);
 
-const igdbTopXboxController = require("./controllers/topXbox");
-app.use("/topxbox", igdbTopXboxController);
+const igdbTopGameBoyController = require("./controllers/topGameBoy");
+app.use("/topgameboy", igdbTopGameBoyController);
+
+const igdbTopGameBoyAdvanceController = require("./controllers/topGameBoyAdvance");
+app.use("/topgba", igdbTopGameBoyAdvanceController);
+
+const igdbTopGameBoyColorController = require("./controllers/topGameBoyColor");
+app.use("/topgbc", igdbTopGameBoyColorController);
+
+const igdbTopGameGearController = require("./controllers/topGameGear");
+app.use("/topgamegear", igdbTopGameGearController);
+
+const igdbTopGenesisController = require("./controllers/topGenesis");
+app.use("/topgenesis", igdbTopGenesisController);
+
+const igdbTop3DSController = require("./controllers/top3DS");
+app.use("/top3ds", igdbTop3DSController);
+
+const igdbTopNintendoDSController = require("./controllers/topNintendoDS");
+app.use("/topnintendods", igdbTopNintendoDSController);
+
+const igdbTopPSPController = require("./controllers/topPSP");
+app.use("/toppsp", igdbTopPSPController);
+
+const igdbTopPSVitaController = require("./controllers/topPSVita");
+app.use("/toppsvita", igdbTopPSVitaController);
+
+const igdbTopSaturnController = require("./controllers/topSaturn");
+app.use("/topsaturn", igdbTopSaturnController);
+
+
 
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
