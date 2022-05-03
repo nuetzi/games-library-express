@@ -53,6 +53,21 @@ app.use("/topwiiu", igdbTopWiiUController);
 const igdbTopSwitchController = require("./controllers/topSwitch");
 app.use("/topswitch", igdbTopSwitchController);
 
+const igdbTopPS1Controller = require("./controllers/topPS1");
+app.use("/topps1", igdbTopPS1Controller);
+
+const igdbTopPS2Controller = require("./controllers/topPS2");
+app.use("/topps2", igdbTopPS2Controller);
+
+const igdbTopPS3Controller = require("./controllers/topPS3");
+app.use("/topps3", igdbTopPS3Controller);
+
+const igdbTopPS4Controller = require("./controllers/topPS4");
+app.use("/topps4", igdbTopPS4Controller);
+
+const igdbTopPS5Controller = require("./controllers/topPS5");
+app.use("/topps5", igdbTopPS5Controller);
+
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
 });
