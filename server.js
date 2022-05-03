@@ -29,8 +29,14 @@ app.use(cors());
 const libraryController = require("./controllers/routes");
 app.use("/library", libraryController);
 
-const igdbGamesController = require("./controllers/igdbTop50");
-app.use("/toprated", igdbGamesController);
+const igdbTopGamesController = require("./controllers/igdb");
+app.use("/toprated", igdbTopGamesController);
+
+const igdbTopNESController = require("./controllers/igdb");
+app.use("/topnes", igdbTopNESController);
+
+const igdbTopSNESController = require("./controllers/igdb");
+app.use("/topsnes", igdbTopSNESController);
 
 app.listen(PORT, () => {
     console.log("Listening on port ", PORT);
