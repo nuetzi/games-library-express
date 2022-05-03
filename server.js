@@ -29,13 +29,13 @@ app.use(cors());
 const libraryController = require("./controllers/routes");
 app.use("/library", libraryController);
 
-const igdbTopGamesController = require("./controllers/igdb");
+const igdbTopGamesController = require("./controllers/topRated");
 app.use("/toprated", igdbTopGamesController);
 
-const igdbTopNESController = require("./controllers/igdb");
+const igdbTopNESController = require("./controllers/topNES");
 app.use("/topnes", igdbTopNESController);
 
-const igdbTopSNESController = require("./controllers/igdb");
+const igdbTopSNESController = require("./controllers/topSNES");
 app.use("/topsnes", igdbTopSNESController);
 
 app.listen(PORT, () => {

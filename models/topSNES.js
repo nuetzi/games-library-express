@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const importsSchema = new mongoose.Schema({
+const topSNESSchema = new mongoose.Schema({
     id: Number,
     aggregated_rating: Number,
     cover: {
@@ -31,11 +31,5 @@ const importsSchema = new mongoose.Schema({
     url: String
 });
 
-const TopImports = mongoose.model("Import", importsSchema, "topRated");
-module.exports = TopImports;
-
-const NESImports = mongoose.model("Import", importsSchema, "topNES");
-module.exports = NESImports;
-
-const SNESImports = mongoose.model("Import", importsSchema, "topSNES");
-module.exports = SNESImports;
+const TopSNES = mongoose.model("TopSNES", topSNESSchema, "topSNES");
+module.exports = TopSNES;
