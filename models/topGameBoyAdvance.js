@@ -31,5 +31,5 @@ const topGameBoyAdvanceSchema = new mongoose.Schema({
     url: String
 });
 
-const TopGameBoyAdvance = mongoose.model("TopGameBoyAdvance", topGameBoyAdvanceSchema, "topGameBoyAdvance");
+const TopGameBoyAdvance = mongoose.model("TopGameBoyAdvance", topGameBoyAdvanceSchema, "topGBA");
 module.exports = TopGameBoyAdvance;

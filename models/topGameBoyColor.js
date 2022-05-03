@@ -31,5 +31,5 @@ const topGameBoyColorSchema = new mongoose.Schema({
     url: String
 });
 
-const TopGameBoyColor = mongoose.model("TopGameBoyColor", topGameBoyColorSchema, "topGameBoyColor");
+const TopGameBoyColor = mongoose.model("TopGameBoyColor", topGameBoyColorSchema, "topGBColor");
 module.exports = TopGameBoyColor;
