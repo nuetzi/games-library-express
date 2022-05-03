@@ -31,5 +31,5 @@ const importsSchema = new mongoose.Schema({
     url: String
 });
 
-const Imports = mongoose.model("Import", importsSchema, "top50");
+const Imports = mongoose.model("Import", importsSchema, "toprated");
 module.exports = Imports;
