@@ -28,7 +28,7 @@ app.use(cors());
 const libraryController = require("./controllers/routes");
 app.use("/library", libraryController);
 
-const igdbGamesController = require("./controllers/igdb");
+const igdbGamesController = require("./controllers/igdbTop50");
 app.use("/top50", igdbGamesController);
 
 app.listen(PORT, () => {
