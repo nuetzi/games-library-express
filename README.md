@@ -16,6 +16,7 @@ Technologies used:
 Back-end hosted at: https://nuetzi-games-express.herokuapp.com
 
 Front-end repo: https://github.com/nuetzi/games-library-react
+
 Front-end hosted at: https://nuetzi-game-library.herokuapp.com/
 
 
