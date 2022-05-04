@@ -1,5 +1,5 @@
 # games-library-express
- Backend code for Games Library app
+ Back-end code for Games Library app
 
 
 Technologies used:
